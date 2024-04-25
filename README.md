@@ -93,3 +93,32 @@ The Real Time Event Feedback Analysis System is a web-based application designed
 
 ## Support:
 For any questions or issues, please open an issue on GitHub or contact Haridas Khmabe at haridaskhambe2003@gmail.com
+
+## Related Images:
+
+
+![Project Overview](OUTPUTS/login.png)
+![Project Overview](OUTPUTS/register.png)
+![Project Overview](OUTPUTS/reg-error.png)
+
+### User Pages
+![Project Overview](OUTPUTS/user/events.png)
+![Project Overview](OUTPUTS/user/give-feedback.png)
+![Project Overview](OUTPUTS/user/comment-disabled.png)
+![Project Overview](OUTPUTS/user/feedback-1.png)
+![Project Overview](OUTPUTS/user/feedback-2.png)
+
+### Admin Pages
+![Project Overview](OUTPUTS/admin/events.png)
+![Project Overview](OUTPUTS/admin/add-event.png)
+![Project Overview](OUTPUTS/admin/feedback-1.png)
+![Project Overview](OUTPUTS/admin/feedback-2.png)
+![Project Overview](OUTPUTS/admin/comment-disabled.png)
+![Project Overview](OUTPUTS/admin/manage.png)
+![Project Overview](OUTPUTS/admin/comment-enable.png)
+![Project Overview](OUTPUTS/admin/edit-event.png)
+![Project Overview](OUTPUTS/admin/end-event.png)
+![Project Overview](OUTPUTS/admin/delete-event.png)
+
+
+
