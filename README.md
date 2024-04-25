@@ -89,7 +89,7 @@ The Real Time Event Feedback Analysis System is a web-based application designed
 1. Haridas Khambe (me)
 2. Sakshi Jagadhane.
 3. Soham Patil.
-4. Aditya.
+4. Aditya Bhagat.
 
 ## Support:
 For any questions or issues, please open an issue on GitHub or contact Haridas Khmabe at haridaskhambe2003@gmail.com
